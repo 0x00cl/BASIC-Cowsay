@@ -12,7 +12,7 @@ This repository contains:
 
 By default the program uses cow art but this can be changed by changing "line" 110 in the .bas file.
 
-```rb
+```bqn
 110 GO SUB <number>
 ```
 
@@ -25,7 +25,7 @@ Number options are:
 
 So if I wanted the llama, I'd have to change line 110 to this:
 
-```rb
+```bqn
 110 GO SUB 4200
 ```
 
